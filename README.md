@@ -3,15 +3,16 @@
 I'm a software developer 
 
 ## About me 
-- **Ignacio Barrio**
-- - **Spain**
- 
-## Contact
-
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/ignacio-barrio-aranda-ab54b2133/)
 ```js
 const name = "Ignacio"
 ```
+I'm a videogame designer and developer, but now i'm entering the full stack world, improving my technical abilities and learning new programming languages.
+ 
+## Contact
+
+- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/ignacio-barrio-aranda-ab54b2133/)
+- **Email**: ignaciobarrio29@gmail.com
+
 <!--
 **IgnacioBA9/IgnacioBA9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
