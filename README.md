@@ -9,7 +9,7 @@ Diseñador y desarrollador de videojuegos, actualmente orientándome hacia la pr
 ## 👤 Sobre mí
 
 Soy graduado en **Diseño y Desarrollo de Videojuegos**. He trabajado en numerosos proyectos realizando tareas de diseño de niveles, mecánicas, UI/UX y también programación con C#.  
-Actualmente me estoy formando como **Full Stack Developer** con Nuclio, para adquirir conocimientos técnicos que complementen mi perfil y me permitan abordar proyectos más completos de principio a fin.
+Actualmente me estoy formando como desarrollador full stack, para adquirir conocimientos técnicos que complementen mi perfil y me permitan abordar proyectos más completos de principio a fin.
 
 ---
 
@@ -53,7 +53,7 @@ Actualmente me estoy formando como **Full Stack Developer** con Nuclio, para adq
 
 ## 📚 Formación actual
 
-🎓 Actualmente estudiando el Máster de **Desarrollo Full Stack** con Nuclio, aprendiendo tecnologías de frontend (HTML, CSS, JavaScript, frameworks) y próximamente backend.  
+🎓 Actualmente estudiando el Máster de **Desarrollo Full Stack** con 4Geeks Academy, aprendiendo tecnologías de frontend (HTML, CSS, JavaScript, frameworks) y próximamente backend.  
 Complemento esta formación con mi experiencia previa en programación y diseño en videojuegos.
 
 ## Contacto
