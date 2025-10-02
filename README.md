@@ -1,15 +1,21 @@
 <h1 align="center">🎮 ¡Hola! Soy Ignacio</h1>
 
 <p align="center">
-Diseñador y desarrollador de videojuegos, actualmente orientándome hacia la programación full stack.
+Desarrollador full stack con formación en Diseño y Desarrollo de Videojuegos.
+Mi experiencia combina la creatividad del diseño (niveles, mecánicas, UI/UX) con la solidez técnica del desarrollo web y programación.
 </p>
 
 ---
 
 ## 👤 Sobre mí
 
-Soy graduado en **Diseño y Desarrollo de Videojuegos**. He trabajado en numerosos proyectos realizando tareas de diseño de niveles, mecánicas, UI/UX y también programación con C#.  
-Actualmente me estoy formando como desarrollador full stack, para adquirir conocimientos técnicos que complementen mi perfil y me permitan abordar proyectos más completos de principio a fin.
+Graduado en Diseño y Desarrollo de Videojuegos.
+
+Experiencia en proyectos de UI/UX, diseño de juego, niveles y programación en Unity (C#).
+
+Actualmente enfocado en desarrollo full stack, creando aplicaciones web completas desde el front-end hasta el back-end.
+
+Me interesa unir mis dos mundos: videojuegos y desarrollo web, aportando un perfil híbrido creativo y técnico.
 
 ---
 
@@ -53,11 +59,11 @@ Actualmente me estoy formando como desarrollador full stack, para adquirir conoc
 
 ## 📚 Formación actual
 
-🎓 Actualmente estudiando el Máster de **Desarrollo Full Stack** con 4Geeks Academy, aprendiendo tecnologías de frontend (HTML, CSS, JavaScript, frameworks) y próximamente backend.  
-Complemento esta formación con mi experiencia previa en programación y diseño en videojuegos.
+🎓 Máster en Desarrollo Full Stack — 4Geeks Academy
+🎓 Grado en Diseño y Desarrollo de Videojuegos
 
 ## Contacto
 
-- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/ignacio-barrio-aranda-ab54b2133/)
+- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/ignacio-barrio-aranda/)
 - **Email**: ignaciobarrio29@gmail.com
 
