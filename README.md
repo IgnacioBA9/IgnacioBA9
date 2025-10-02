@@ -52,10 +52,13 @@ Me interesa unir mis dos mundos: videojuegos y desarrollo web, aportando un perf
 ### 🛠 Herramientas de trabajo
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fork-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HacknPlan-1572B6?style=for-the-badge&logoColor=white"/>
 </p>
 
 </details>
